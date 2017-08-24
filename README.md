@@ -27,6 +27,7 @@ A curated list of awesome resources for everything!
 * [libcvs](https://libvcs.git-pull.com/en/latest/#) - Git automation via Python.
 * [Fabric](http://www.fabfile.org/) - Streamlining the use of SSH.
 * [Urwid](https://urwid.readthedocs.io/en/latest/) - Console user interface library for Python.
+* [Requests](http://docs.python-requests.org/en/master/) - Sane HTTP(S).
 
 ## ZSH
 
