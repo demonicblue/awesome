@@ -11,6 +11,11 @@ A curated list of awesome resources for everything!
 - [Tech news](#tech-news)
 - [Reddit Threads](#reddit-threads)
 
+## JavaScript
+
+* [Ask HN: Resources for catching up on modern JavaScript for Python/C++ Programmer](https://news.ycombinator.com/item?id=16800510)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+
 ## Python
 
 *Python resources.*
